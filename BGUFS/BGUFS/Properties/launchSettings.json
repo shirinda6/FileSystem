@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BGUFS": {
+      "commandName": "Project",
+      "commandLineArgs": "-rename d:\\test\\test.dat test1.txt test1ReNamed.txt"
+    }
+  }
+}

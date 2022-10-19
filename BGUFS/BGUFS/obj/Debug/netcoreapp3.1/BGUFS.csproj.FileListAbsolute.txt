@@ -1,0 +1,27 @@
+C:\Users\arie4\Desktop\מערכות הפעלה\Work4\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.csprojAssemblyReference.cache
+C:\Users\arie4\Desktop\מערכות הפעלה\Work4\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.AssemblyInfoInputs.cache
+C:\Users\arie4\Desktop\מערכות הפעלה\Work4\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.AssemblyInfo.cs
+C:\Users\arie4\Desktop\מערכות הפעלה\Work4\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.csproj.CoreCompileInputs.cache
+C:\Users\arie4\Desktop\מערכות הפעלה\Work4\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.exe
+C:\Users\arie4\Desktop\מערכות הפעלה\Work4\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.deps.json
+C:\Users\arie4\Desktop\מערכות הפעלה\Work4\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.runtimeconfig.json
+C:\Users\arie4\Desktop\מערכות הפעלה\Work4\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.runtimeconfig.dev.json
+C:\Users\arie4\Desktop\מערכות הפעלה\Work4\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.dll
+C:\Users\arie4\Desktop\מערכות הפעלה\Work4\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.pdb
+C:\Users\arie4\Desktop\מערכות הפעלה\Work4\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.dll
+C:\Users\arie4\Desktop\מערכות הפעלה\Work4\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.pdb
+C:\Users\arie4\Desktop\מערכות הפעלה\Work4\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.genruntimeconfig.cache
+C:\Users\shir\Desktop\שיר\לימודים\שנה ב\סמסטר ד\מבוא למערכות הפעלה\עבודה 4\206260218_209406164\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.exe
+C:\Users\shir\Desktop\שיר\לימודים\שנה ב\סמסטר ד\מבוא למערכות הפעלה\עבודה 4\206260218_209406164\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.deps.json
+C:\Users\shir\Desktop\שיר\לימודים\שנה ב\סמסטר ד\מבוא למערכות הפעלה\עבודה 4\206260218_209406164\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.runtimeconfig.json
+C:\Users\shir\Desktop\שיר\לימודים\שנה ב\סמסטר ד\מבוא למערכות הפעלה\עבודה 4\206260218_209406164\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.runtimeconfig.dev.json
+C:\Users\shir\Desktop\שיר\לימודים\שנה ב\סמסטר ד\מבוא למערכות הפעלה\עבודה 4\206260218_209406164\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.dll
+C:\Users\shir\Desktop\שיר\לימודים\שנה ב\סמסטר ד\מבוא למערכות הפעלה\עבודה 4\206260218_209406164\BGUFS\BGUFS\bin\Debug\netcoreapp3.1\BGUFS.pdb
+C:\Users\shir\Desktop\שיר\לימודים\שנה ב\סמסטר ד\מבוא למערכות הפעלה\עבודה 4\206260218_209406164\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.csproj.AssemblyReference.cache
+C:\Users\shir\Desktop\שיר\לימודים\שנה ב\סמסטר ד\מבוא למערכות הפעלה\עבודה 4\206260218_209406164\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shir\Desktop\שיר\לימודים\שנה ב\סמסטר ד\מבוא למערכות הפעלה\עבודה 4\206260218_209406164\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.AssemblyInfoInputs.cache
+C:\Users\shir\Desktop\שיר\לימודים\שנה ב\סמסטר ד\מבוא למערכות הפעלה\עבודה 4\206260218_209406164\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.AssemblyInfo.cs
+C:\Users\shir\Desktop\שיר\לימודים\שנה ב\סמסטר ד\מבוא למערכות הפעלה\עבודה 4\206260218_209406164\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.csproj.CoreCompileInputs.cache
+C:\Users\shir\Desktop\שיר\לימודים\שנה ב\סמסטר ד\מבוא למערכות הפעלה\עבודה 4\206260218_209406164\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.dll
+C:\Users\shir\Desktop\שיר\לימודים\שנה ב\סמסטר ד\מבוא למערכות הפעלה\עבודה 4\206260218_209406164\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.pdb
+C:\Users\shir\Desktop\שיר\לימודים\שנה ב\סמסטר ד\מבוא למערכות הפעלה\עבודה 4\206260218_209406164\BGUFS\BGUFS\obj\Debug\netcoreapp3.1\BGUFS.genruntimeconfig.cache

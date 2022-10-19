@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o2yWYFV6ETzXGbKy01Kz4wwQ2dXqRzFRNg8Cvx8Uy7OOuiJw1vCDVybHf8/z1xwFBlElIoGjU1UN0MHazK/JQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shir\\Desktop\\שיר\\לימודים\\שנה ב\\סמסטר ד\\מבוא למערכות הפעלה\\עבודה 4\\206260218_209406164\\BGUFS\\BGUFS\\BGUFS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shir\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
